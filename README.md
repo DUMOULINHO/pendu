@@ -1,3 +1,5 @@
+Bash supporte un nombre surprenant d'opérations de manipulation de chaînes de caractères. Malheureusement, ces outils manquent d'unité.
+
 #!/bin/bash
 # Programmeur : WW
 # 25/05/08
